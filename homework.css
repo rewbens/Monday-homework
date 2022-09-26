@@ -1,0 +1,29 @@
+* {
+    font-family: sans-serif;
+    
+}
+
+header {
+    background-color: dodgerblue;
+    color: white;
+    margin-bottom: 15px;
+    padding: 10px;
+    list-style: none;
+/* sure we had white section links? Perhaps prior to ul.remove-bullets was introduced.  
+check why not work in ul.remove-...either? */
+
+}
+
+ul.remove-bullets {
+    list-style: none;
+    
+}
+
+#header-logo {
+    padding: 15px;
+}
+
+
+
+
+
